@@ -66,9 +66,6 @@ a:active, a:visited, a:focus {
   width: 50px;
   left: 50%;
   height: 50px;
-  border: 1px solid transparent;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
   line-height: 50px;
   letter-spacing: 50%;
   margin-left: -25px;
@@ -79,8 +76,7 @@ a:active, a:visited, a:focus {
 }
 
 .main-down:hover {
-  color: #fff;
-  border-color: #fff;
+  color: #2d2d44;
 }
 
 .portfolio {
