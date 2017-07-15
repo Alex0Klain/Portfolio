@@ -23,7 +23,6 @@ a:active, a:visited, a:focus {
   text-align: center;
   color: #fff;
   height: 100vh;
-  background: #000 url("../img/main-bg.jpg") 0 0 no-repeat;
 }
 
 .main h1 {
